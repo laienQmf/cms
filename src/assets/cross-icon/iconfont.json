@@ -1,0 +1,37 @@
+{
+  "id": "2905431",
+  "name": "Cross Promo System",
+  "font_family": "iconfont",
+  "css_prefix_text": "cross-icon-",
+  "description": "用于cross promo的 icon",
+  "glyphs": [
+    {
+      "icon_id": "25315066",
+      "name": "录音",
+      "font_class": "luyin-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "25315068",
+      "name": "录音",
+      "font_class": "luyin-copy-copy",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1327",
+      "name": "录音",
+      "font_class": "luyin",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "25315045",
+      "name": "录音",
+      "font_class": "luyin-copy1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}

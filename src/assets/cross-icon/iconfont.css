@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2905431 */
+  src: url('iconfont.woff2?t=1635730988118') format('woff2'),
+       url('iconfont.woff?t=1635730988118') format('woff'),
+       url('iconfont.ttf?t=1635730988118') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="cross-icon"], 
+[class*=" cross-icon"]/*这里有空格*/
+{ font-family: "iconfont" !important;
+ 
+font-size: 16px;
+ 
+font-style: normal;
+ 
+-webkit-font-smoothing: antialiased;
+ 
+-moz-osx-font-smoothing: grayscale; 
+} 
+.cross-icon-luyin-copy:before {
+  content: "\e602";
+}
+
+.cross-icon-luyin-copy-copy:before {
+  content: "\e603";
+}
+
+.cross-icon-luyin:before {
+  content: "\e600";
+}
+
+.cross-icon-luyin-copy1:before {
+  content: "\e601";
+}
+

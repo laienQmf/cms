@@ -1,0 +1,31 @@
+{
+    "English": {
+        "home": {
+            "name":"LAIEN",
+            "lastLogin": "last Login"
+        },
+        "list": {
+            "user": {
+                "name":"User"
+            },
+            "project":{
+                "name":"Project"
+            },
+            "resource":{
+                "name":"Resource",
+                "animation":"Animation"
+            }
+        },
+        "animationDetail":{
+            "breadcrumb":["resource","animation"],
+            "Information":"Basic Information",
+            "state":["草稿","未上架","已上架"],
+            "saveBtn":"保存",
+            "deleteBtn":"删除",
+            "AnimationName":"Animation Name",
+            "uploadText":"将文件拖到此处，或点击上传",
+            "uploadText2":"只能上传 jpg/png 文件，且不超过 500kb",
+            "preView":"预览"
+        }
+    }
+}

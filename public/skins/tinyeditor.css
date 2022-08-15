@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Be Vietnam Bold';
+    src: local('Be Vietnam Bold'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-Bold.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam BoldItalic';
+    src: local('Be Vietnam BoldItalic'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-BoldItalic.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam ExtraBold';
+    src: local('Be Vietnam ExtraBold'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-ExtraBold.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam ExtraBoldItalic';
+    src: local('Be Vietnam ExtraBoldItalic'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-ExtraBoldItalic.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam Italic';
+    src: local('Be Vietnam Italic'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-Italic.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam Light';
+    src: local('Be Vietnam Light'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-Light.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam LightItalic';
+    src: local('Be Vietnam LightItalic'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-LightItalic.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam Medium';
+    src: local('Be Vietnam Medium'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-Medium.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam MediumItalic';
+    src: local('Be Vietnam MediumItalic'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-MediumItalic.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam';
+    src: local('Be Vietnam'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-Regular.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam SemiBold';
+    src: local('Be Vietnam SemiBold'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-SemiBold.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam SemiBoldItalic';
+    src: local('Be Vietnam SemiBoldItalic'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-SemiBoldItalic.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam Thin';
+    src: local('Be Vietnam Thin'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-Thin.ttf');
+  }
+  @font-face {
+    font-family: 'Be Vietnam ThinItalic';
+    src: local('Be Vietnam ThinItalic'), url('./TTF/Be-vietnam/be-vietnam/BeVietnam-ThinItalic.ttf');
+  }

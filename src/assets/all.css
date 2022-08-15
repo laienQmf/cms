@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    --yellow:#ffd460;
+    --orange:#f07b3f;
+    --red:#ea5455;
+    --black:#2d4059;
+    font-family:'PingFang SC','SF Pro Display','Microsoft YaHei',Roboto,Noto,Arial,sans-serif;
+}
+.el-breadcrumb__inner,
+.el-table .tableHeadr
+{
+  text-transform:capitalize
+}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;500&display=swap');
+@import url('./fontFamliy.css');
+/* @import url('./tinyeditor.css'); */
+*::-webkit-scrollbar{
+    width:5px;
+    height:5px;
+    /**/
+  }
+  /* 滑轮轨道 */
+  *::-webkit-scrollbar-track{
+    background: white;
+    border-radius:2px;
+  }
+  /* 滑块样式 */
+  *::-webkit-scrollbar-thumb{     
+    background: rgb(221,222,224);
+    border-radius:20px;
+    cursor: pointer !important;
+  }
+  *::-webkit-scrollbar-thumb:hover{
+    background: rgb(199,201,204);
+    cursor: pointer;
+  }
+  *::-webkit-scrollbar-corner{
+    background: #179a16;
+  }
+
+  .errorInput{
+    /* box-shadow: 0 0 0 1px #f56c6c; */
+    border: 1px solid #f56c6c !important;
+  }
+
+  /* 按钮取消hover */
+  .el-button:hover:not(){
+    /* pointer-events: */
+    color: #FFF;
+    background-color: #409EFF;
+    border-color: #409EFF
+  }
+  .hover:hover{
+    opacity: 0.8;
+    cursor: pointer;
+  }
